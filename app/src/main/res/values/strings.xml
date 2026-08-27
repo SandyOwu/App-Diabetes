@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Consulta de Alimentos</string>
+    <string name="desc_tomar_foto">Tomar fotografía</string>
+    <string name="resultado_ia_placeholder">Resultado de IA</string>
+</resources>

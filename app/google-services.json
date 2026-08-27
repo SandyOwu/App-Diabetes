@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "629537203511",
+    "firebase_url": "https://smae-e4c95-default-rtdb.firebaseio.com",
+    "project_id": "smae-e4c95",
+    "storage_bucket": "smae-e4c95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629537203511:android:d7818279c601119da5e6b2",
+        "android_client_info": {
+          "package_name": "com.example.smaeandrstud1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZeBhji5hgzqoOouznDSem6UKUMOLuizA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629537203511:android:71e3cfd75d31fdc3a5e6b2",
+        "android_client_info": {
+          "package_name": "com.example.smaeandrstud3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZeBhji5hgzqoOouznDSem6UKUMOLuizA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

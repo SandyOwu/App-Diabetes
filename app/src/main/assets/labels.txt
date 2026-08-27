@@ -1,0 +1,21 @@
+0 Manzana
+1 Plátano
+2 Brócoli
+3 Elote amarillo
+4 Kiwi
+5 Jitomate
+6 Fresa
+7 Piña
+8 Uvas
+9 Zanahoria
+10 Pitahaya
+11 Pepino
+12 Melón
+13 Betabel
+14 Chile jalapeño
+15 Limón real
+16 Mango
+17 Cebolla
+18 Naranja
+19 Pera
+20 Frambuesa
